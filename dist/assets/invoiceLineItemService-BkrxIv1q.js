@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={create(t){return e.post(`invoice-line-items/`,t).then(e=>e.data)},patch(t,n){return e.patch(`invoice-line-items/${t}/`,n).then(e=>e.data)},remove(t){return e.delete(`invoice-line-items/${t}/`).then(e=>e.data)}};export{t};

@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={list(t={}){return e.get(`payment-terms/`,{params:t}).then(e=>e.data)},create(t){return e.post(`payment-terms/`,t).then(e=>e.data)},patch(t,n){return e.patch(`payment-terms/${t}/`,n).then(e=>e.data)},remove(t){return e.delete(`payment-terms/${t}/`).then(e=>e.data)}};export{t};

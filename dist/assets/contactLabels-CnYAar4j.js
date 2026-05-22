@@ -1,0 +1,1 @@
+function e(e){if(!e)return``;let t=`${e.first_name||``} ${e.last_name||``}`.trim(),n=(e.title||``).trim();return n&&t?`${t} · ${n}`:t||n||`Contact #${e.id}`}export{e as t};

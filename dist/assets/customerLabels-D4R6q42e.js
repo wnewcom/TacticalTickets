@@ -1,0 +1,1 @@
+function e(e){if(!e)return``;if(e.customer_type===`company`)return(e.company||``).trim()||`Company #${e.id}`;let t=`${e.first_name||``} ${e.last_name||``}`.trim(),n=(e.company||``).trim();return n?`${t} · ${n}`:t||`Customer #${e.id}`}export{e as t};

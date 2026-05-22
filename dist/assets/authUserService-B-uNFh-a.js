@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={me(){return e.get(`auth/me/`).then(e=>e.data)}};export{t};

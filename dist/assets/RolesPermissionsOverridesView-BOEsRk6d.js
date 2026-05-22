@@ -1,0 +1,1 @@
+import{S as e,l as t,p as n,t as r}from"./_plugin-vue_export-helper-DkqgBaAb.js";import{t as i}from"./PermissionOverridesPanel-COLgCQBE.js";var a={class:`rp-tab`},o=r({__name:`RolesPermissionsOverridesView`,setup(r){return(r,o)=>(e(),t(`div`,a,[n(i)]))}},[[`__scopeId`,`data-v-ee4ef9a3`]]);export{o as default};

@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={getTicketSettings(){return e.get(`ticket-settings/`).then(e=>e.data)},updateTicketSettings(t){return e.patch(`ticket-settings/`,t).then(e=>e.data)}};export{t};

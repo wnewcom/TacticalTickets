@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={list(t={}){return e.get(`invoice-templates/`,{params:t}).then(e=>e.data)},create(t){return e.post(`invoice-templates/`,t).then(e=>e.data)},patch(t,n){return e.patch(`invoice-templates/${t}/`,n).then(e=>e.data)},remove(t){return e.delete(`invoice-templates/${t}/`).then(e=>e.data)}};export{t};

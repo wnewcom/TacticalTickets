@@ -1,0 +1,1 @@
+function e(e){if(!e)return`—`;let t=new Date(e);return Number.isNaN(t.getTime())?String(e):t.toLocaleString()}function t(e,t=100){let n=e==null?``:String(e);return n.length<=t?n:`${n.slice(0,t)}…`}export{t as n,e as t};

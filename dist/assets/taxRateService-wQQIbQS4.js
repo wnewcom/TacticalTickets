@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={list(t={}){return e.get(`tax-rates/`,{params:t}).then(e=>e.data)}};export{t};

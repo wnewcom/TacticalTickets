@@ -1,0 +1,1 @@
+import{n as e}from"./index-BMht6pda.js";var t={get(){return e.get(`invoice-settings/`).then(e=>e.data)},patch(t){return e.patch(`invoice-settings/`,t).then(e=>e.data)}};export{t};

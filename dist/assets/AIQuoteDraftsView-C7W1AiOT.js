@@ -1,0 +1,1 @@
+import{S as e,s as t}from"./_plugin-vue_export-helper-DkqgBaAb.js";import{t as n}from"./AIDraftQuotesInvoicesSharedView-DyvT8SQh.js";var r={__name:`AIQuoteDraftsView`,setup(r){return(r,i)=>(e(),t(n,{"invoice-mode":!1}))}};export{r as default};
