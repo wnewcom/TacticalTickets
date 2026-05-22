@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup exports and large generated files
+Backend/media/backup_exports/backups/
+
+# Local environment
+.env
+*.env
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# IDE/editor files
+.vscode/
+*.swp
+*.swo
